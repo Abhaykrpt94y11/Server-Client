@@ -1,5 +1,11 @@
-1)please change the path of folder (server1 and server2 ) in respective file in order to search for the requested file by client.
-2)Due to returing the null pointer by the file pointer it is not tranfering the data.(please see the code in both server and client file for data transfer)
+Aim: 
+To build a simple network involving three nodes with following instructions.
+1. One of the nodes will be a client and the other two nodes will be servers.
+
+2. The client can request for a file from the servers and any server having the file will send the
+file, also flag an error message if the server does not have the file. If both servers have the
+file, send the file from any of the servers.
+
 
 Compilation instruction
 1) client server is hard coded in file itself
