@@ -1,0 +1,3 @@
+This is a simple file in serer2
+for cheking the data
+
